@@ -335,4 +335,3 @@ if __name__ == "__main__":
     # Clear the chat history when the chatbot page is loaded
     if "messages" in st.session_state:
         st.session_state.messages = []
-
